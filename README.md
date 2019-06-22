@@ -1,5 +1,5 @@
 # SeleniumAutomation
-Google Signin and export unread Emails and Display Grade report
+Google Signin and export unread Emails
 
 
 NAME AMANUEL TFERI
